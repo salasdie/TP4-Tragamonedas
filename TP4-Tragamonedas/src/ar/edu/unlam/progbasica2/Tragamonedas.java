@@ -24,7 +24,7 @@ public class Tragamonedas {
 	
 	public boolean entregarPremio(){
 		
-		if(Tambor1.getposicion() == Tambor2.getposicion() && Tambor2.getposicion()== Tambor3.getposicion()){
+		if(Tambor1.getPosicion() == Tambor2.getPosicion() && Tambor2.getPosicion()== Tambor3.getPosicion()){
 			
 			return true;
 		

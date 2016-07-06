@@ -9,7 +9,7 @@ public class Tambor {
 			posicion = generator.generate();
 		}
 		
-		public Integer getposicion(){
+		public Integer getPosicion(){
 			
 			return posicion;
 		}
